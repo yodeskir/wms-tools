@@ -14,7 +14,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="wms-shared\wms-shared.csproj" />
+    <ProjectReference Include="..\wms-shared\wms-shared.csproj" />
   </ItemGroup>
 
 </Project>
